@@ -1,0 +1,11 @@
+,empno,ename,basic,department,commission
+0,101,Sanjay,16000.0,ACC,320.0
+1,102,Varun,19000.0,SLS,380.0
+2,103,Sairam,,PRD,
+3,104,Sam,1200.0,SLS,24.0
+4,105,Vedanth,12633.0,PRD,252.66
+5,106,Krishna,24000.0,ACC,480.0
+6,107,Guru,14000.0,SLS,280.0
+7,108,Maithreyi,21000.0,PRD,420.0
+8,109,Gayathri,23000.0,ACC,460.0
+9,110,Nithya,,PRD,

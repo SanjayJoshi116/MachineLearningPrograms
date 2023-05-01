@@ -1,0 +1,26 @@
+Lab Assignment 2
+1.	Write a program that asks the user for a positive integer value. The program should calculate the sum of all the integers from 1 up to the number entered. For example, if the user enters 20, the loop will find the sum of 1, 2, 3, 4, ... 20.
+2.	Write a program that prompts the user to input a number and prints its factorial. The factorial of an integer n is defined as n! = 1 x 2 x 3 x ... x n; if n > 0 = 1; if n = 0 For instance, 6! can be calculated as 1 x 2 x 3 x 4 x 5 x 6.
+3.	Write a program that prompts the user to input a number and reverse its digits. For example, the reverse of 12345 is 54321; reverse of 5600 is 65
+4.	Write a program that asks the user to input a positive integer. Your program should find and display the sum of digits of number. For example, sum of digits of number 32518 is 3+2+5+1+8 = 19. 
+5.	A palindromic number is a number that remains the same when its digits are reversed. For example, 16461. Write a program that prompts the user to input a number and determine whether the number is palindrome or not.
+6.	Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.
+7.	Write a program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered.
+8.	Write a program to obtain the first 25 numbers of a Fibonacci sequence.
+9.	Write a program that accepts a string from user. Your program should count and display number of vowels in that string.
+10.	Write a program that reads a string from keyboard and display:
+* The number of uppercase letters in the string
+* The number of lowercase letters in the string
+* The number of digits in the string
+
+11.	Write a Python program that accepts a string from user. Your program should create and display a new string where the first and last characters have been exchanged.
+12.	Write a Python program that accepts a string from user. Your program should create a new string in reverse of first string and display it.
+13.	Write a program that asks the user to input his name and print its initials. Assuming that the user always types first name, middle name and last name and does not include any unnecessary spaces.
+For example, if the user enters Ajay Kumar Garg the program should display A. K. G.
+14.	Write a program in python that accepts a string to setup a passwords. Your entered password must meet the following requirements:
+•	The password must be at least eight characters long.
+•	It must contain at least one uppercase letter.
+•	It must contain at least one lowercase letter.
+•	It must contain at least one numeric digit.
+Your program should should perform this validation.
+
